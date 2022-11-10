@@ -8,3 +8,5 @@ Password Keys will look like the following
 ```
 dchx-(a calculated string)
 ```
+
+[JOIN THE DISCORD BTW](https://discord.gg/mN6MGarb56)
