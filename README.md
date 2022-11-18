@@ -16,5 +16,6 @@ dchx-(a calculated string)
 ```
 
 [JOIN THE DISCORD BTW](https://discord.gg/mN6MGarb56)
+
 -----------------
 ### Developed By Discord Toolkit (Deprecated Project) Devs
