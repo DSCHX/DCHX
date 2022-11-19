@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Raz"
+- family-names: "Tung"
+- family-names: "Wang"
+- family-names: "FiberModem"
+- family-names: "Doggybootsy"
+- family-names: "Immoral"
+- family-names: "FTR"
+title: "Discord Toolkit"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-18
+url: "https://github.com/DSCHX/DCHX"
