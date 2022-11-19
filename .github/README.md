@@ -4,7 +4,8 @@ DCHX (Discord Hacks) is a lightweight custom client for discord with features us
 
 ## [Pre-release](https://github.com/DSCHX/DCHX-Public/releases/tag/Beta) is out!
 Subscribe using one of the payment processors below: <br>
-<a href='https://ko-fi.com/A0A5GHDLO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='http://ko-fi.com/razjs/tiers' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Subscribe to DCHX' /></a>
+
 
 ## Documentation
 
