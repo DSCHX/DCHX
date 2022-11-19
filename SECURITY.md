@@ -16,8 +16,8 @@
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please report (suspected) security vulnerabilities to
+**[this discussion](https://github.com/DSCHX/DCHX/discussions)**. You will receive a response from
+us within 48 hours (hopefully). If the issue is confirmed, we will release a patch as soon
+as possible depending on complexity but historically within a few days.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
