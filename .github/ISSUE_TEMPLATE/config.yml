@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/DSCHX/DCHX/discussions/new?category=q-a
     about: Post here when having trouble with setup or configuration
   - name: 💡 Suggest new features
-    url: https://github.com/DSCHX/DCHX/discussions/new?category=ideas
+    url: https://github.com/DSCHX/DCHX/discussions/categories/vote-for-features
     about: Submit ideas to help us improve
   - name: 💬 Start a discussion
     url: https://github.com/DSCHX/DCHX/discussions/new?category=general
