@@ -3,7 +3,7 @@
 
 DCHX (Discord Hacks) is a lightweight custom client for discord with features using discord's built-in webpack!
 
-## [Release](https://github.com/DSCHX/DCHX-Public/releases/tag/v0.2) is out!
+## [A New Release](https://github.com/DSCHX/DCHX-Public/releases/) is out!
 [Subscribe Now!](https://github.com/DSCHX/DCHX/blob/main/.github/WEBSITE-SRC/assets/readme/payments.md)
 
 
@@ -41,3 +41,5 @@ dchx-(a calculated string)
 -----------------
 
 ### Developed By Discord Toolkit (Deprecated Project) Devs
+
+Contact: [getbitches@project.dchx.cloudns.ph](mailto:getbitches@project.dchx.cloudns.ph)
