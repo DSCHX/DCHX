@@ -4,7 +4,7 @@
 DCHX (Discord Hacks) is a lightweight custom client for discord with features using discord's built-in webpack!
 
 ## A New Release is out!
-[Subscribe Now!](https://patreon.com/razjs)
+[Subscribe Now!](https://patreon.com/razjs) (ARCHIVED LINK - MIGHT HAVE CHANGED)
 
 
 ## Documentation
@@ -14,18 +14,17 @@ DCHX (Discord Hacks) is a lightweight custom client for discord with features us
 ## Authors
 
 - [@Raz-js](https://www.github.com/raz-js)
-- [@FardAss](https://www.github.com/fardass124)
 
 
 ## Acknowledgements
 
- - [Discord Console Hacks](https://github.com/hxr404/Discord-Console-hacks)
- - [Discord Javascript Documentation](https://gist.github.com/Raz-js/76e5bd06828902647eda4cfd6721fdc4)
- - [Better Discord Developers / Support](https://github.com/BetterDiscord/BetterDiscord)
+ - [Discord Console Hacks](https://github.com/hxr404/Discord-Console-hacks) (ARCHIVED LINK - MIGHT HAVE CHANGED)
+ - [Discord Javascript Documentation](https://gist.github.com/Raz-js/76e5bd06828902647eda4cfd6721fdc4) (ARCHIVED LINK - MIGHT HAVE CHANGED)
+ - [Better Discord Developers / Support](https://github.com/BetterDiscord/BetterDiscord) (ARCHIVED LINK - MIGHT HAVE CHANGED)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [our discord server](https://discord.gg/3gz8G8vw6a)
+If you have any feedback, please reach out to us at [our discord server](https://discord.gg/3gz8G8vw6a) (ARCHIVED LINK - MIGHT HAVE CHANGED)
 
 ## Screenshots
 
